@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 import matplotlib as mpl
+import matplotlib.tri
 
 
 class BackgroundMesh2D(ABC):
