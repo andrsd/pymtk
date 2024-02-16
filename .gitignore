@@ -1,0 +1,13 @@
+__pycache__
+.pytest_cache/*
+htmlcov/*
+html/*
+docs/.doctrees
+.coverage
+coverage.xml
+
+.idea
+build/*
+dist/*
+*.egg-info/*
+.eggs/
